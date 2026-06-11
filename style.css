@@ -4,10 +4,10 @@ Altere apenas estas variáveis
 para mudar todo o site.
 ===================================== */
 :root{
---cor-principal: #2E7D32;
---cor-secundaria: #81C784;
---cor-fundo: #F5F5F5;
---cor-texto: #333333;
+--cor-principal: #11e9c5;
+--cor-secundaria: #000000;
+--cor-fundo: #a19f9f;
+--cor-texto: #141313;
 --cor-branca: #FFFFFF;
 }
 
